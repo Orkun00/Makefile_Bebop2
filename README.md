@@ -8,6 +8,9 @@ Project Structure
     Makefile: Script used for compiling and managing executables.
 
 Prerequisites
+    You need src and bin directories.
+    
+    You must install this repository next to src and bin directories.
 
     Ensure you have the ARM cross-compiler installed: arm-linux-gnueabi-gcc.
     The drone should be connected to the same network as your computer and reachable via its IP address.
